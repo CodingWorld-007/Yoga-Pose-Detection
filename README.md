@@ -2,6 +2,8 @@
 
 This project mainly aims to achieve the correct yoga pose. You can simply provide any video with yoga poses, and it can briefly tell you the name of the pose if found from the training dataset. We have used 82 classes to train this model (82 Yoga Poses). The dataset contains a total of approximately 9400+ images.
 
+We have provided example videos for the purpose of testing, You can use them to see the output.
+
 ## Steps to Run this Model
 
 1. Download the trained model named as `pose_classifier_advanced.h5` or clone the repository.
