@@ -12,3 +12,8 @@ This project mainly aims to achieve the correct yoga pose. You can simply provid
 1. Clone the repository.
 2. Create a dataset or download a dataset from [Kaggle](https://www.kaggle.com/) or any other website. (We have 82 classes, meaning 82 types of yoga poses.)
 3. Make sure to modify the `pose_name.py` file. In our case, there are 82 pose names. You will need to change it according to your dataset.
+4. For First time, You have to write train while running `training.py` file.
+5. Then after that, again run the model and write test. (Provide the exact location of the video doing Yoga poses)
+6. You'll see the output in your screen.
+
+## Thank You
