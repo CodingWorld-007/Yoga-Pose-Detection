@@ -2,7 +2,7 @@
 This project mainly aims to acheive the correct yoga pose. You can simply provide any video with yoga poses. It can breify tell you the name of the pose if find out from the training dataset. We have used 82 classes to train this model (82 Yoga Poses). Dataset contains a total of 9400+ Images approx.
 
 #Step to Run this Model 
-Step 1 : You have to download trained model named as pose_classifier_advanced.h5 or clone the repo.
+Step 1 : You have to download trained model named as pose_classifier_advanced.h5 or clone the repo. \n
 Step 2 : Just run the training.py, and while running type test and also provide the location of video(Mentioned in Code)
 
 #Step to create this Model from your own.
